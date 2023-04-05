@@ -18,7 +18,8 @@ The user is prompted to enter the length of their desired password, ranging from
 * numerical 
 * special
 
-The password is then generated.
+The password is then generated. An example can be seen below.![passwordgen](https://user-images.githubusercontent.com/122548483/230232065-fb03d3ad-e0b0-4162-9a56-b18ff30e51ac.png)
+
 
 ## Contributing
 

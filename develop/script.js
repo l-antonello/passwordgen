@@ -32,8 +32,5 @@ for (var i = 0; i < length; i++) {
   password += characters[randomIndex];
 }
 
-// output password to the console
-console.log("Your new password is: " + password);
-
 // display the password to the user
 alert("Your password is: " + password);

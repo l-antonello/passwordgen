@@ -12,7 +12,7 @@ The objective of this site is to create a random password. The password may be 8
 
 ## Usage
 
-A link to the site is [here](https://l-antonello.github.io/passwordgen/) The user is prompted to enter the length of their desired password, ranging from 8-128 characters. A series of prompts is then set requesting the confirmation or refusal of the following characters:
+A link to the site is [here](https://l-antonello.github.io/passwordgen/). The user is prompted to enter the length of their desired password, ranging from 8-128 characters. A series of prompts is then set requesting the confirmation or refusal of the following characters:
 * lowercase
 * uppercase
 * numerical 
